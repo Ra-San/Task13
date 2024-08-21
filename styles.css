@@ -1,0 +1,32 @@
+.thmain {
+    background-color: green;
+    color: white;
+    border: 2px solid;
+    border-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.tdmain {
+    background-color: grey;
+    color: white;
+    border: 2px solid;
+    border-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.tdmain a {
+    text-decoration: none;
+    color: white;
+}
+
+.altbutton {
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    border: 2px solid;
+    border-color: black;
+}
